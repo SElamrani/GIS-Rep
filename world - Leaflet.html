@@ -1,0 +1,191 @@
+<html>
+<head>
+  <title>The World (Leaflet version)</title>
+  <style>
+	header {
+		background-color:red;
+		color:white;
+		text-align:center;
+		padding:5px;	
+	}
+	footer {
+		background-color:black;
+		color:white;
+		clear:both;
+		text-align:center;
+		padding:5px;	 	 
+	}	
+	.info {
+			padding: 6px 8px;
+			font: 14px/16px Arial, Helvetica, sans-serif;
+			background: white;
+			background: rgba(255,255,255,0.8);
+			box-shadow: 0 0 15px rgba(0,0,0,0.2);
+			border-radius: 5px;
+		}
+.tooltip {
+  position: relative;
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 4px;
+  color: white;
+  padding: 4px 8px;
+  opacity: 0.7;
+  white-space: nowrap;
+}
+.tooltip-measure {
+  opacity: 1
+}
+		
+  </style>
+  
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
+  <script src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
+  
+  <link rel="countries" type="application/json" href="countries.geojson">
+  
+</head>
+<body>
+	<header>
+	<h1>The World</h1>
+	</header>
+	<section style="border:5px solid blue;">
+			<p style="width:25%; float:left;">Earth is the third planet from the Sun, the densest planet in the Solar System, the largest of the Solar System's four terrestrial planets, and the only astronomical object known to harbor life. The earliest life on Earth arose at least 3.5 billion years ago. Earth's biodiversity has expanded continually except when interrupted by mass extinctions. Although scholars estimate that over 99 percent of all species of life (over five billion) that ever lived on Earth are extinct, there are still an estimated 10–14 million extant species, of which about 1.2 million have been documented and over 86 percent have not yet been described. Over 7.3 billion humans live on Earth and depend on its biosphere and minerals for their survival. Earth's human population is divided among about two hundred sovereign states which interact through diplomacy, conflict, travel, trade and communication media. (Wikpedia)</p>
+			<div id="map" style="height:75%;width:75%"></div>
+	</section>
+	<footer>Copyright ???</footer>
+	
+<script>
+	var map = L.map('map').setView([0, 0], 2);
+	
+	L.tileLayer(
+	'http://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}', 
+	{
+		attribution: 'Tiles &copy; Esri',
+		maxZoom: 17
+	}).addTo(map);
+	
+	
+	var info = L.control({'position':'topleft'});
+
+	info.onAdd = function (map) {
+		this._div = L.DomUtil.create('div', 'info');
+		this.update();
+		return this._div;
+	};
+	
+	info.update = function (feature) {
+
+		if (feature){
+			
+			num = 0;
+			lat = 0;
+			lon = 0;
+			
+			if (feature.geometry.type == 'Polygon'){
+				for (i=0; i<feature.geometry.coordinates[0].length; i++){
+					lon+=feature.geometry.coordinates[0][i][0];
+					lat+=feature.geometry.coordinates[0][i][1];
+					num++;
+				}
+			} else if (feature.geometry.type == 'MultiPolygon'){
+				for (i=0; i<feature.geometry.coordinates[0].length; i++){
+					for (j=0;j<feature.geometry.coordinates[0][i].length; j++){
+						lon+=feature.geometry.coordinates[0][i][j][0];
+						lat+=feature.geometry.coordinates[0][i][j][1];
+						num++;
+					}
+				}
+			}
+			
+			lon/=num;
+			lat/=num;
+			
+			pixel = map.latLngToContainerPoint(L.latLng(lat, lon));
+			
+			this._div.style.left = pixel.x;
+			this._div.style.top = pixel.y - 100;
+			
+			this._div.innerHTML = (feature.properties ? feature.properties.name : '');
+		}
+	};
+	
+	info.addTo(map);
+		
+	var geojson;
+	
+		function style(feature) {
+			return {
+				weight: 0,
+				opacity: 1.0,
+				color: '#000',
+				fillOpacity: 0.0,
+				fillColor: '#000'
+			};
+		}
+
+		
+		function highlightFeature(e) {
+			var layer = e.target;
+
+			layer.setStyle({
+				weight: 2,
+				color: '#000',
+				opacity: 1,
+				fillOpacity: 0.0,
+				fillColor: '#000'
+			});
+			
+			info.update(layer.feature);
+		}
+
+		var geojson;
+
+		function resetHighlight(e) {
+			geojson.resetStyle(e.target);
+			info.update();
+		}
+
+		function openWikipedia(e) {
+			window.open("https://en.wikipedia.org/wiki/"+e.target.feature.properties.name, '_blank');
+		}
+
+		function onEachFeature(feature, layer) {
+			
+			layer.on({
+				mouseover: highlightFeature,
+				mouseout: resetHighlight,
+				click: openWikipedia
+			});
+		}
+	
+		$.getJSON($('link[rel="countries"]').attr("href"), function(data) {
+			geojson = L.geoJson(data, {
+				style: style,
+				onEachFeature: onEachFeature
+			});
+			geojson.addTo(map);
+		});
+
+	
+	var coords = L.control({'position':'topleft'});
+
+	coords.onAdd = function (map) {
+		this._div = L.DomUtil.create('div', 'tooltip tooltip-measure');
+		return this._div;
+	};
+
+	map.on('mousemove', function (e) {
+	
+		coords._div.style.left = e.containerPoint.x;
+		coords._div.style.top = e.containerPoint.y - 120;
+		coords._div.innerHTML = e.latlng.lng+', '+e.latlng.lat;
+	});
+	
+	coords.addTo(map);
+	
+	
+ </script>
+	
+</body>
+</html>

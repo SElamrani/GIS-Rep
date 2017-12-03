@@ -1,0 +1,1382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsies="http://www.gpsies.com/GPX/1/0" creator="GPSies http://www.gpsies.com - NeustadtMühlenroute" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.gpsies.com/GPX/1/0 http://www.gpsies.com/gpsies.xsd">
+  <metadata>
+    <name>NeustadtMühlenroute</name>
+    <copyright author="GPSies.com" />
+    <link href="http://www.gpsies.com/map.do?fileId=rynqrwhhusliaarz">
+      <text>NeustadtMühlenroute on GPSies.com</text>
+    </link>
+    <time>2010-12-06T08:54:02Z</time>
+    <extensions>
+      <gpsies:property>round trip</gpsies:property>
+      <gpsies:trackLengthMeter>47442.4718384832</gpsies:trackLengthMeter>
+      <gpsies:totalAscentMeter>159.0</gpsies:totalAscentMeter>
+      <gpsies:totalDescentMeter>161.0</gpsies:totalDescentMeter>
+      <gpsies:minHeightMeter>32.0</gpsies:minHeightMeter>
+      <gpsies:maxHeightMeter>67.0</gpsies:maxHeightMeter>
+    </extensions>
+  </metadata>
+  <wpt lat="52.50657663" lon="9.463380575">
+    <ele>39.000000</ele>
+    <name>Ecksteinmühle</name>
+    <desc>Kleines Wasserkraftwerk</desc>
+    <sym>Waypoint</sym>
+    <type>Sightseeing</type>
+  </wpt>
+  <wpt lat="52.50555135" lon="9.463852643">
+    <ele>36.000000</ele>
+    <name>Schleuse &amp; Mühlenkanal</name>
+    <desc>1746 wurde mit dem Bau der Schleuse begonnen, 1752 wurde sie fertiggestellt und in Betrieb genommen. Die Schleuse hat mit einer Länge von 45 m und einer Breite von 5,20 m noch die historischen Abmessungen.</desc>
+    <sym>Waypoint</sym>
+    <type>Sightseeing</type>
+  </wpt>
+  <wpt lat="52.53541813" lon="9.464920163">
+    <ele>39.000000</ele>
+    <name>Mühle - Empeder Str. 4</name>
+    <desc>Die im wesentlichen heute noch vorhandene, aber nicht denkmalgeschützte Mühlenanlage wurde 1937 in massiver Ziegelbauweise errichtet.Der Vorgänger dieser Mühle war ein Fachwerkgebäude, dessen Geschichte zumindest bis in das Jahr 1636 zurückreicht. Von 1637 bis Anfang des 19 Jh. Gehörte sie zum Kloster Mariesee.Um 1970 wurde der Mühlenbetrieb eingestellt. 1992-1994 wurde die Mühlenanlage zu Wohnzwecken umgebaut.</desc>
+    <sym>Waypoint</sym>
+    <type>Generic</type>
+  </wpt>
+  <wpt lat="52.53576401" lon="9.463412761">
+    <ele>38.000000</ele>
+    <name>Wohnwirtschaftsgebäude - Empeder Straße 3</name>
+    <desc>Das eingeschossige Wohnwirtschaftsgebäude wurde 1907 als Querdielenhaus errichtet. Der rote Ziegelbau besitzt zahlreiche gründerzeitliche Elemente. Auch der zur Denkmalgeschützten, kleinen Hofstelle zugehörige Garten ist sehenswert.</desc>
+    <sym>Waypoint</sym>
+    <type>Sightseeing</type>
+  </wpt>
+  <wpt lat="52.53558128" lon="9.467849135">
+    <ele>38.000000</ele>
+    <name>Ehem. Wohnwirtschaftsgebäude - Brakenweg 7</name>
+    <desc>Das Wohnwirtschaftsgebäude wurde 1848 als Vierständer-Fachwerkgebäude errichtet. 1991-1994 wurde das Gebäude denkmalgerecht saniert und zu reinen Wohnzwecken umgenutzt.</desc>
+    <sym>Waypoint</sym>
+    <type>Sightseeing</type>
+  </wpt>
+  <wpt lat="52.56119494" lon="9.480643272">
+    <ele>36.000000</ele>
+    <name>Wassermühle - Alt Mariensee 32</name>
+    <desc>Die Mühenanlage am Hagener Bach besteht aus dem eigentlichen Mühlengebäude mit angebautem Wohnhaus und einem kleinen Stallgebäude.Bei der Mühle handelt es sich um ein Fachwerkgebäude mit der Datierung 1642 in einem Holzriegel. Das ursprüngliche Wohnhaus wurde abgebrochen und 1901 ein neues im Gründerstil an die Mühle angebaut. 1936 wurde die Mühle stillgelegt. Die Mühlentechnik ist zwischenzeitlich verloren gegangen. Die Lage des ehemals vorhandenen oberschlächtigen Wasserrades läst sich nur bei genauem Hinsehen erkennen.Urkundlich erwähnt wurde Die "Wittinas Möhle" erstmals 1302.</desc>
+    <sym>Waypoint</sym>
+    <type>Sightseeing</type>
+  </wpt>
+  <wpt lat="52.56172324" lon="9.482306241">
+    <ele>41.000000</ele>
+    <name>Hofanlage - Alt Mariensee 21/23</name>
+    <desc>Die Hofanlage besteht aus einem Wohnwirtschaftsgebäude (Haupthaus), Wirtschaftsgebäuden und einem Altenteiler. Das mächtige Haupthaus wurde 1856 als Vierständer-Fachwerkgebäude errichtet. Das Kleinere, im vorderen Bereich der Anlage vorhandene Altenteiler entstand 1860 in Fachwerk. Die gesamte Hofanlage steht unter Denkmalschutz.</desc>
+    <sym>Waypoint</sym>
+    <type>Sightseeing</type>
+  </wpt>
+  <wpt lat="52.56083948" lon="9.485224485">
+    <ele>37.000000</ele>
+    <name>Wohnhaus - Alt Mariensee 9</name>
+    <desc>Das zweigeschossige Fachwerkgebäude mit Krüppelwalmdach wurde vermutlich um 1780 errichtet.</desc>
+    <sym>Waypoint</sym>
+    <type>Generic</type>
+  </wpt>
+  <wpt lat="52.56023943" lon="9.487000107">
+    <ele>37.000000</ele>
+    <name>Verwalterhaus - Höltystraße 18</name>
+    <desc>Das Verwalterhaus des ehemaligen Klosterguts wurde um 1726 als zweigeschossiger, zehnachsiger Fachwerkbau errichtet. Heute gehört das Gebäude zur Bundesforschungsanstalt für Tierzucht und Tierverhalten.</desc>
+    <sym>Waypoint</sym>
+    <type>Sightseeing</type>
+  </wpt>
+  <wpt lat="52.55893168" lon="9.486490488">
+    <ele>41.000000</ele>
+    <name>Kloster - Höltystraße 1</name>
+    <desc>Das Kloster Mariensee (Cenobio de Lacu Sancte Marie) wurde 1207 erstmals urkundlich erwähnt. Es war von Anfang an ein Nonnenkloster, welches die Regeln des Zisterzienserordens angenommen hatte, ohne selbst diesem anuzugehören.Das Kloster wurde im 30 jährigen Krieg stark zerstört. Das Stiftsgebäude, welches aus vier einheitlichen Gebäudezügen besteht und einen Innenhof umschließt hat 1726-1729 sein heutiges Erscheinungsbild erhalten. Da mittelalterliche Klausurgebäude musste aufgrund der oben genannten Schäden abgebrochen werden.Bei der Klosterkirche handelt es sich um ein einschiffiges Backsteingebäude mit drei quadratischen Jochen und einer polygonalen Apsis. Erbaut wurde die Kirche vermutlich in der ersten Hälfte des 13. Jh., welches auch dem Stil des Gebäudes entspricht. Im Rahmen des Neubaus des Stiftsgebäudes wurden auch an der Kirche Veränderungen vorgenommen (massiger Strebepfeiler an der Nordwand, Verlegung des Eingangsportals, Abwalmung des Westgiebels).</desc>
+    <sym>Waypoint</sym>
+    <type>Sightseeing</type>
+  </wpt>
+  <wpt lat="52.55949261" lon="9.487048387">
+    <ele>41.000000</ele>
+    <name>Pfarrhaus - Höltystraße 7</name>
+    <desc>Das Pfarrhaus wurde 1904/05 im Jungendstil erbaut. Es handelt sich hierbei um einen massiven, roten Ziegelbau mit Segmentbogenfenstern und Fachwerk in den Giebeldreiecken.</desc>
+    <sym>Waypoint</sym>
+    <type>Sightseeing</type>
+  </wpt>
+  <wpt lat="52.55944696" lon="9.481287002">
+    <ele>40.000000</ele>
+    <name>Forsthaus - Am Klosterbach 9</name>
+    <desc>Das Forsthaus gehörte ursprünglich zum Klostergut. Es wurde als Vierständer-Fachwerkgebäude mit Giebelvorkragung und Krüppelwalmdach errichtet. Forsthaus und Backhaus auf dem Grundstück sind Baudenkmale im Sinne des Nds. Denkmalschutzgesetzes.</desc>
+    <sym>Waypoint</sym>
+    <type>Sightseeing</type>
+  </wpt>
+  <wpt lat="52.57057939" lon="9.498217105">
+    <ele>40.000000</ele>
+    <name>Ehem. Wohnwirtschaftsgebäude Moritzgraben 2</name>
+    <desc>Das Wohnwirtschaftsgebäude wurde mit seitlichem Stallanbau 1903 im Stil der Gründerzeit errichtet. Es handelt sich um ein aus roten Ziegelsteinen hergestellter Massivbau mit Krüppelwalmdach. 1981 wurde die Hofanlage von drei Familien erworben und in den folgenden Jahren behutsam umgebaut und saniert.</desc>
+    <sym>Waypoint</sym>
+    <type>Sightseeing</type>
+  </wpt>
+  <wpt lat="52.59098804" lon="9.499375820">
+    <ele>54.000000</ele>
+    <name>Kirche - Am Kirchplatz 5</name>
+    <desc>Die kleine Saalkirche wurde vermutlich 1769 erbaut. Es handelt sich um ein Fachwerkgebäude mit weitgestellten Ständern auf einem geputzten Steinsockel mit Ausfachungen aus unverputzten Ziegelsteinen. Die Kirche besitzt ein Satteldach mit Abwalmung und Dachreiter in Gestalt eines Glockenturms. Von 1993-1995 fanden umfangreiche Renovierungsarbeiten statt, bei denen auch der Lehmputz auf der Innenseite der Außenwände erneuert wurde.</desc>
+    <sym>Waypoint</sym>
+    <type>Sightseeing</type>
+  </wpt>
+  <wpt lat="52.59080880" lon="9.499429464">
+    <ele>54.000000</ele>
+    <name>Ehem. Altenteiler - Am Kirchplatz 8</name>
+    <desc>Das ehemals zur großen Hofanlage "Am Kirchplatz 7" zugehörige Altenteilerhaus wurde 1988 vom heutigen Besitzer erworben und somit aus der Hofanlage Herausgeteilt. Das kleine Vierständer-Fachwerkgebäude mit Krüppelwalmdach wurde 1799 erbaut. 1991-1995 wurde das stark geschädigte Gebäude mit Einfühlungsvermögen instandgesetzt und zu reinen Wohnzwecken umgebaut.</desc>
+    <sym>Waypoint</sym>
+    <type>Sightseeing</type>
+  </wpt>
+  <wpt lat="52.59129764" lon="9.501500129">
+    <ele>54.000000</ele>
+    <name>Dorfteiche</name>
+    <desc>Die Dorfteiche an der Bürener Straße dienten ursprünglich der Löschwasserversorgung. Heute sind es Baudenkmale im Sinne des Nds. Denkmalschutzgesetzes.</desc>
+    <sym>Waypoint</sym>
+    <type>Sightseeing</type>
+  </wpt>
+  <wpt lat="52.61280087" lon="9.510179758">
+    <ele>38.000000</ele>
+    <name>Kapelle - Lutter Straße 25</name>
+    <desc>An der Stelle einer älteren Kapelle ist die jetzt vorhandene 1748 erbaut worden. Der Turm entstand 1874; hierbei ist der Kapelleneingang in den Turm verlegt worden.Bei der Kapelle handelt es sich um einen rechteckigen Fachwerkbau mit unverputzten Ziegelausfachungen und Satteldach mit Tonpfannendeckung. Der viereckige Turm ist in den beiden unteren Geschossen ziegelmassiv, im oberen Bereich besteht er aus Fachwerk.</desc>
+    <sym>Waypoint</sym>
+    <type>Sightseeing</type>
+  </wpt>
+  <wpt lat="52.61356958" lon="9.508280754">
+    <ele>40.000000</ele>
+    <name>Ehem. Backhaus - Vorm Schulzenkamp 4</name>
+    <desc>Das Backhaus wurde vermutlich um 1800 als Fachwerkgebäude errichtet. Der Backofen ist schon seit längerer Zeit nicht mehr vorhanden; in der nordöstlichen Giebelwand ist lediglich noch der Anschluss hierfür vorhanden.Das Fachwerkgebäude wurde 197/98 Denkmalgerecht instandgesetzt und dient heute als Abstellraum.</desc>
+    <sym>Waypoint</sym>
+    <type>Sightseeing</type>
+  </wpt>
+  <wpt lat="52.61228622" lon="9.515919685">
+    <ele>34.000000</ele>
+    <name>Backtage im neuen Backhaus - Bäckerweg 9</name>
+    <desc>Am Bäckerweg 9 wurde ein Backhaus nach historischem Vorbild errichtet. An bestimmten Samstagen, die in der örtlichen Presse bekannt gegeben werden, finden hier Backtage statt, an denen die alte Handwerkskunst begutachtet und genossen werden kann. Bei dem Backhaus handelt es sich logischerweise nicht um ein Baudenkmal.</desc>
+    <sym>Waypoint</sym>
+    <type>Sightseeing</type>
+  </wpt>
+  <wpt lat="52.62632295" lon="9.487853050">
+    <ele>34.000000</ele>
+    <name>Wassermühle - An der Alpe 2</name>
+    <desc>Die Laderholzer Wassermühle wurde erstmals 1165 urkundlich erwähnt. Bei dem 1728 errichteten Mühlengebäude handelt es sich um ein Fachwerkgebäude mit Ziegelausfachungen, bei dem die Alpeseitege Giebelwand bis zur Traufhöhe aus vermauerten Sandsteinquadern besteht. An das Mühlengebäude wurde um 1880 ein Wohnhaus für den Müller im Jugendstil angebaut.Die ursprünglich mit einem Mittel-/unterschlächtigem Wasserbad betriebene Mühle erhielt zu einem späteren Zeitpunkt zwei durch ein Mittel-/unterschlächtiges und durch ein oberschlächtiges Wasserbad angetriebene Getreidemühlem mit Mahlstuhl.1947 zerbrechen infolge Eisganges die Mühlenräder. 1950 wird der Mühlenbetrieb eingestellt. 1991 wurde die überregional bedeutsame Mühle vom Heimatbund Niedersachsen e.V. gepachtet. In den folgenden Jahren wurde die stark geschädigte Mühle von der Interessengemeinschaft zur Rettung der Laderholzer Wassermühle instandgesetzt, die Mühlentechnik und das zum Betrieb der Mühle notwendige Umfeld saniert bzw. wiederhergestellt. Seit 1994 dreht sich das Wasserrad wieder und es ist auch die technische Funktion dieses Bauwerks zu besichtigen.Im Müllerhaus eröffnet in Kürze ein Café.Öffnungszeiten der Mühle:Ab Pfingstmontag (Deutscher Mühlentag) bis September jeden Sonntag von 14.00 - 17.00 Uhr.</desc>
+    <sym>Waypoint</sym>
+    <type>Sightseeing</type>
+  </wpt>
+  <wpt lat="52.59569688" lon="9.383933544">
+    <ele>46.000000</ele>
+    <name>Ehem. Ziegelei - Zu den Teichen 2</name>
+    <desc>Die Ziegeleianlage besteht aus einem Ringofen mit 35 m hohem Schornstein, einem Maschinenhaus, 8 Trockenschuppen, Tonkuhle und 3 Wohnhäusern. Sie geht auf eine Abbauerstelle von 1822 zurück. Anfangs wurden die Ziegel in einem Kammerofen gebrannt, später in einem Zickzackofen, nach 1883 in dem später mehrfach erweitertem Ringofen. Seit 1966 ist die Nöpker Ziegelei stillgelegt und somit leider dem langsamen Verfall ausgesetzt.</desc>
+    <sym>Waypoint</sym>
+    <type>Sightseeing</type>
+  </wpt>
+  <wpt lat="52.59612049" lon="9.392495155">
+    <ele>48.000000</ele>
+    <name>Ehem. Wohnwirtschaftsgebäude - Roter Weg 26</name>
+    <desc>Das relativ kleine, ehemalige Wohnwirtschaftsgebäude stammt aus der Mitte des 19. Jh.. Es wurde als Vierständer-Fachwerkgebäude mit Krüppelwalmdach errichtet. 1993-1996 wurde es vom Eigentümer mit hoher Eigenleistung beispielhaft saniert und zu reinen Wohnzwecken umgenutzt.</desc>
+    <sym>Waypoint</sym>
+    <type>Sightseeing</type>
+  </wpt>
+  <wpt lat="52.58365167" lon="9.402472972">
+    <ele>57.000000</ele>
+    <name>Bockwindmühle - Im Mühlenfeld 2</name>
+    <desc>Die Bockwindmühle befindet sich in direkter Nachbarschaft zur Galerieholländer - Windmühle. Sie wurde 1767 oder 1776 erbaut. Sie besitzt einen achteckigen, massiv gemauerten Unterbau, selbst eine senkrechte Verbretterung und ein Dach mit einer Eindeckung, aus Holzschindeln. Die Flügel besaßen ursprünglich eine Besegelung.1930 wurde die Mühle stillgelegt. In der 2. Hälfte der 70er Jahre wurde die vor dem Verfall bedrohte Mühle wieder instandgesetzt. Heute dient sie Wohnzwecken.</desc>
+    <sym>Waypoint</sym>
+    <type>Sightseeing</type>
+  </wpt>
+  <wpt lat="52.58723038" lon="9.388697147">
+    <ele>61.000000</ele>
+    <name>Ehem. Schule - An der Schule 2</name>
+    <desc>Die Dorfschule wurde 1852 erbaut. Die Außenwände wurden in rotem Ziegelmauerwerk erstellt, in der Dachgeschosszone in Fachwerk. Auf dem Krüppelwalmdach wurde ein Glockenturm errichtet. 1913 wurde die Schule umgebaut. Der nördliche Baukörper mit dem Eingangsbereich entstand. Die Schule hatte jetzt zwei Klassenräume. Bis 1905 war die Schule einklassig mit drei Stufen; die Schülerzahl betrug durchschnittlich 90 bis 100 Kinder.</desc>
+    <sym>Waypoint</sym>
+    <type>Sightseeing</type>
+  </wpt>
+  <wpt lat="52.58634062" lon="9.392194747">
+    <ele>57.000000</ele>
+    <name>Ehem. Wohnwirtschaftsgebäude - Im Or 1</name>
+    <desc>Das Wohnwirtschaftsgebäude wurde 1848 als Vierständer-Fachwerkgebäude errichtet. Die Giebelwand des Kammerfachs wurde zu einem späteren Zeitpunkt in massiver Ziegelbauweise erneuert. 1993-1996 wurde das Gebäude denkmalgerecht saniert und zu reinen Wohnzwecken umgenutzt.</desc>
+    <sym>Waypoint</sym>
+    <type>Sightseeing</type>
+  </wpt>
+  <wpt lat="52.57593265" lon="9.424574375">
+    <ele>51.000000</ele>
+    <name>Ehem. Wohnwirtschaftsgebäude - Zur Kirche 7</name>
+    <desc>Bei dem ehemaligen Wohnwirtschaftsgebäude handelt es sich um ein Zweiständer-Fachwerkgebäude mit Ziegelausfachungen. Der Westgiebel wurde zur Jahrhundertwende im Stil der Gründerzeit erneuert. 1993-1995 wurde das stark geschädigte Baudenkmal in einem Kindergarten umgebaut. Das alte Gebäude wurde somit jungem Leben gefüllt.</desc>
+    <sym>Waypoint</sym>
+    <type>Sightseeing</type>
+  </wpt>
+  <wpt lat="52.57616737" lon="9.425271749">
+    <ele>52.000000</ele>
+    <name>Kirche - Zur Kirche 6</name>
+    <desc>Die Saalkirche wurde aus Feldsteinen erbaut und verputzt. Der Erdgeschossbereich des Turmes ist der älteste vorhandene Teil, er stammt aus dem 13. Jh.. 1723/24 wurde die im gotischen Stil errichtete Kirche umgebaut und erweitert. Unter anderem erhielt sie einen neuen Turm in Fachwerkbauweise, wobei der massive Erdgeschossbereich erhalten blieb. 1874 ersetzte C.W. Hase die beiden Fachwerkgeschosse des Turmes durch massives Ziegelmauerwerk. Die äußere Form, so das obere Achteck unter der Haube, blieb hierbei erhalten.</desc>
+    <sym>Waypoint</sym>
+    <type>Sightseeing</type>
+  </wpt>
+  <wpt lat="52.57569141" lon="9.426634311">
+    <ele>53.000000</ele>
+    <name>Ehem. Pfarrscheune - Hagener Straße 34</name>
+    <desc>Das städtebaulich bedeutsame Fachwerkgebäude mit Krüppelwalmdach und Querdiele wurde mitte des 19. Jh. Als Pfarrscheune erbaut. Um 1930 wurde sie zu Wohnzwecken umgebaut, der Innenraum kleinteilig untergliedert, das Gebäude befenstert und traufseitig ein kleiner Anbau als Eingang errichtet. 1886-1895 wurde das Fachwerkgebäude besonders denkmalgerecht in mehreren Bauabschnitten saniert. Neben der Wohnnutzung ist in dem Baudenkmal noch ein kleiner Laden untergebracht, dem das Gebäude das passende Ambiente liefert.</desc>
+    <sym>Waypoint</sym>
+    <type>Sightseeing</type>
+  </wpt>
+  <trk>
+    <name>NeustadtMühlenroute on GPSies.com</name>
+    <link href="http://www.gpsies.com/map.do?fileId=rynqrwhhusliaarz" />
+    <trkseg>
+      <trkpt lat="52.50678560" lon="9.462189670">
+        <ele>41.000000</ele>
+        <time>2010-12-06T08:54:02Z</time>
+      </trkpt>
+      <trkpt lat="52.50679000" lon="9.462160000">
+        <ele>41.000000</ele>
+        <time>2010-12-06T08:54:02Z</time>
+      </trkpt>
+      <trkpt lat="52.50918000" lon="9.462410000">
+        <ele>41.000000</ele>
+        <time>2010-12-06T08:55:38Z</time>
+      </trkpt>
+      <trkpt lat="52.50942000" lon="9.462570000">
+        <ele>41.000000</ele>
+        <time>2010-12-06T08:55:49Z</time>
+      </trkpt>
+      <trkpt lat="52.50985000" lon="9.462970000">
+        <ele>39.000000</ele>
+        <time>2010-12-06T08:56:08Z</time>
+      </trkpt>
+      <trkpt lat="52.51126000" lon="9.463980000">
+        <ele>40.000000</ele>
+        <time>2010-12-06T08:57:10Z</time>
+      </trkpt>
+      <trkpt lat="52.51322000" lon="9.464830000">
+        <ele>40.000000</ele>
+        <time>2010-12-06T08:58:31Z</time>
+      </trkpt>
+      <trkpt lat="52.51358000" lon="9.464900000">
+        <ele>40.000000</ele>
+        <time>2010-12-06T08:58:46Z</time>
+      </trkpt>
+      <trkpt lat="52.52046000" lon="9.465320000">
+        <ele>37.000000</ele>
+        <time>2010-12-06T09:03:21Z</time>
+      </trkpt>
+      <trkpt lat="52.52089000" lon="9.465290000">
+        <ele>37.000000</ele>
+        <time>2010-12-06T09:03:39Z</time>
+      </trkpt>
+      <trkpt lat="52.52704000" lon="9.463050000">
+        <ele>37.000000</ele>
+        <time>2010-12-06T09:07:51Z</time>
+      </trkpt>
+      <trkpt lat="52.52744000" lon="9.462980000">
+        <ele>38.000000</ele>
+        <time>2010-12-06T09:08:07Z</time>
+      </trkpt>
+      <trkpt lat="52.52777000" lon="9.463010000">
+        <ele>38.000000</ele>
+        <time>2010-12-06T09:08:20Z</time>
+      </trkpt>
+      <trkpt lat="52.52885000" lon="9.463230000">
+        <ele>34.000000</ele>
+        <time>2010-12-06T09:09:04Z</time>
+      </trkpt>
+      <trkpt lat="52.53004000" lon="9.463680000">
+        <ele>34.000000</ele>
+        <time>2010-12-06T09:09:52Z</time>
+      </trkpt>
+      <trkpt lat="52.53045000" lon="9.463710000">
+        <ele>35.000000</ele>
+        <time>2010-12-06T09:10:09Z</time>
+      </trkpt>
+      <trkpt lat="52.53126000" lon="9.463510000">
+        <ele>35.000000</ele>
+        <time>2010-12-06T09:10:42Z</time>
+      </trkpt>
+      <trkpt lat="52.53194000" lon="9.463220000">
+        <ele>35.000000</ele>
+        <time>2010-12-06T09:11:10Z</time>
+      </trkpt>
+      <trkpt lat="52.53396000" lon="9.462560000">
+        <ele>34.000000</ele>
+        <time>2010-12-06T09:12:32Z</time>
+      </trkpt>
+      <trkpt lat="52.53439000" lon="9.462610000">
+        <ele>34.000000</ele>
+        <time>2010-12-06T09:12:49Z</time>
+      </trkpt>
+      <trkpt lat="52.53472000" lon="9.462790000">
+        <ele>37.000000</ele>
+        <time>2010-12-06T09:13:03Z</time>
+      </trkpt>
+      <trkpt lat="52.53498080" lon="9.463042610">
+        <ele>35.000000</ele>
+        <time>2010-12-06T09:13:16Z</time>
+      </trkpt>
+      <trkpt lat="52.53528100" lon="9.463675610">
+        <ele>35.000000</ele>
+        <time>2010-12-06T09:13:35Z</time>
+      </trkpt>
+      <trkpt lat="52.53532000" lon="9.463900000">
+        <ele>35.000000</ele>
+        <time>2010-12-06T09:13:41Z</time>
+      </trkpt>
+      <trkpt lat="52.53538220" lon="9.464394450">
+        <ele>35.000000</ele>
+        <time>2010-12-06T09:13:53Z</time>
+      </trkpt>
+      <trkpt lat="52.53547680" lon="9.466057410">
+        <ele>39.000000</ele>
+        <time>2010-12-06T09:14:34Z</time>
+      </trkpt>
+      <trkpt lat="52.53524840" lon="9.467082020">
+        <ele>36.000000</ele>
+        <time>2010-12-06T09:15:00Z</time>
+      </trkpt>
+      <trkpt lat="52.53520600" lon="9.467795490">
+        <ele>36.000000</ele>
+        <time>2010-12-06T09:15:18Z</time>
+      </trkpt>
+      <trkpt lat="52.53571180" lon="9.467827670">
+        <ele>37.000000</ele>
+        <time>2010-12-06T09:15:38Z</time>
+      </trkpt>
+      <trkpt lat="52.53619470" lon="9.467618460">
+        <ele>37.000000</ele>
+        <time>2010-12-06T09:15:58Z</time>
+      </trkpt>
+      <trkpt lat="52.53637740" lon="9.467248320">
+        <ele>37.000000</ele>
+        <time>2010-12-06T09:16:10Z</time>
+      </trkpt>
+      <trkpt lat="52.53655030" lon="9.466749420">
+        <ele>39.000000</ele>
+        <time>2010-12-06T09:16:24Z</time>
+      </trkpt>
+      <trkpt lat="52.53727000" lon="9.467360000">
+        <ele>37.000000</ele>
+        <time>2010-12-06T09:16:56Z</time>
+      </trkpt>
+      <trkpt lat="52.53744000" lon="9.467560000">
+        <ele>37.000000</ele>
+        <time>2010-12-06T09:17:04Z</time>
+      </trkpt>
+      <trkpt lat="52.53835000" lon="9.469030000">
+        <ele>35.000000</ele>
+        <time>2010-12-06T09:17:55Z</time>
+      </trkpt>
+      <trkpt lat="52.53904000" lon="9.470030000">
+        <ele>35.000000</ele>
+        <time>2010-12-06T09:18:32Z</time>
+      </trkpt>
+      <trkpt lat="52.54203000" lon="9.473340000">
+        <ele>34.000000</ele>
+        <time>2010-12-06T09:20:57Z</time>
+      </trkpt>
+      <trkpt lat="52.54259000" lon="9.473740000">
+        <ele>34.000000</ele>
+        <time>2010-12-06T09:21:21Z</time>
+      </trkpt>
+      <trkpt lat="52.54434000" lon="9.474490000">
+        <ele>42.000000</ele>
+        <time>2010-12-06T09:22:33Z</time>
+      </trkpt>
+      <trkpt lat="52.54977000" lon="9.477360000">
+        <ele>38.000000</ele>
+        <time>2010-12-06T09:26:22Z</time>
+      </trkpt>
+      <trkpt lat="52.55103000" lon="9.478090000">
+        <ele>35.000000</ele>
+        <time>2010-12-06T09:27:15Z</time>
+      </trkpt>
+      <trkpt lat="52.55171060" lon="9.476287360">
+        <ele>47.000000</ele>
+        <time>2010-12-06T09:28:07Z</time>
+      </trkpt>
+      <trkpt lat="52.55258470" lon="9.475171560">
+        <ele>44.000000</ele>
+        <time>2010-12-06T09:28:51Z</time>
+      </trkpt>
+      <trkpt lat="52.55435910" lon="9.473884100">
+        <ele>46.000000</ele>
+        <time>2010-12-06T09:30:09Z</time>
+      </trkpt>
+      <trkpt lat="52.55661610" lon="9.475257390">
+        <ele>51.000000</ele>
+        <time>2010-12-06T09:31:45Z</time>
+      </trkpt>
+      <trkpt lat="52.55874250" lon="9.478690620">
+        <ele>40.000000</ele>
+        <time>2010-12-06T09:33:44Z</time>
+      </trkpt>
+      <trkpt lat="52.55924000" lon="9.481440000">
+        <ele>39.000000</ele>
+        <time>2010-12-06T09:34:54Z</time>
+      </trkpt>
+      <trkpt lat="52.55892510" lon="9.481759070">
+        <ele>39.000000</ele>
+        <time>2010-12-06T09:35:09Z</time>
+      </trkpt>
+      <trkpt lat="52.55967520" lon="9.482252590">
+        <ele>35.000000</ele>
+        <time>2010-12-06T09:35:41Z</time>
+      </trkpt>
+      <trkpt lat="52.55925120" lon="9.485085010">
+        <ele>35.000000</ele>
+        <time>2010-12-06T09:36:52Z</time>
+      </trkpt>
+      <trkpt lat="52.55904900" lon="9.485921850">
+        <ele>37.000000</ele>
+        <time>2010-12-06T09:37:14Z</time>
+      </trkpt>
+      <trkpt lat="52.55910000" lon="9.486530000">
+        <ele>40.000000</ele>
+        <time>2010-12-06T09:37:29Z</time>
+      </trkpt>
+      <trkpt lat="52.55923170" lon="9.487144940">
+        <ele>38.000000</ele>
+        <time>2010-12-06T09:37:45Z</time>
+      </trkpt>
+      <trkpt lat="52.56024920" lon="9.486930370">
+        <ele>37.000000</ele>
+        <time>2010-12-06T09:38:26Z</time>
+      </trkpt>
+      <trkpt lat="52.56052960" lon="9.486823080">
+        <ele>39.000000</ele>
+        <time>2010-12-06T09:38:38Z</time>
+      </trkpt>
+      <trkpt lat="52.56054920" lon="9.486216900">
+        <ele>38.000000</ele>
+        <time>2010-12-06T09:38:52Z</time>
+      </trkpt>
+      <trkpt lat="52.56060000" lon="9.485840000">
+        <ele>38.000000</ele>
+        <time>2010-12-06T09:39:02Z</time>
+      </trkpt>
+      <trkpt lat="52.56070000" lon="9.485560000">
+        <ele>38.000000</ele>
+        <time>2010-12-06T09:39:10Z</time>
+      </trkpt>
+      <trkpt lat="52.56141340" lon="9.484012120">
+        <ele>41.000000</ele>
+        <time>2010-12-06T09:39:57Z</time>
+      </trkpt>
+      <trkpt lat="52.56167000" lon="9.483120000">
+        <ele>41.000000</ele>
+        <time>2010-12-06T09:40:21Z</time>
+      </trkpt>
+      <trkpt lat="52.56173620" lon="9.482531540">
+        <ele>40.000000</ele>
+        <time>2010-12-06T09:40:36Z</time>
+      </trkpt>
+      <trkpt lat="52.56162540" lon="9.481877080">
+        <ele>40.000000</ele>
+        <time>2010-12-06T09:40:52Z</time>
+      </trkpt>
+      <trkpt lat="52.56129930" lon="9.480707640">
+        <ele>40.000000</ele>
+        <time>2010-12-06T09:41:23Z</time>
+      </trkpt>
+      <trkpt lat="52.56152750" lon="9.481190440">
+        <ele>40.000000</ele>
+        <time>2010-12-06T09:41:38Z</time>
+      </trkpt>
+      <trkpt lat="52.56184710" lon="9.482488630">
+        <ele>40.000000</ele>
+        <time>2010-12-06T09:42:12Z</time>
+      </trkpt>
+      <trkpt lat="52.56265580" lon="9.483754630">
+        <ele>43.000000</ele>
+        <time>2010-12-06T09:42:57Z</time>
+      </trkpt>
+      <trkpt lat="52.56394070" lon="9.484688040">
+        <ele>44.000000</ele>
+        <time>2010-12-06T09:43:53Z</time>
+      </trkpt>
+      <trkpt lat="52.56446890" lon="9.485181570">
+        <ele>44.000000</ele>
+        <time>2010-12-06T09:44:18Z</time>
+      </trkpt>
+      <trkpt lat="52.56692100" lon="9.486469030">
+        <ele>38.000000</ele>
+        <time>2010-12-06T09:46:01Z</time>
+      </trkpt>
+      <trkpt lat="52.56646000" lon="9.487760000">
+        <ele>38.000000</ele>
+        <time>2010-12-06T09:46:37Z</time>
+      </trkpt>
+      <trkpt lat="52.56718000" lon="9.487860000">
+        <ele>39.000000</ele>
+        <time>2010-12-06T09:47:06Z</time>
+      </trkpt>
+      <trkpt lat="52.56753000" lon="9.488050000">
+        <ele>40.000000</ele>
+        <time>2010-12-06T09:47:21Z</time>
+      </trkpt>
+      <trkpt lat="52.56789000" lon="9.488410000">
+        <ele>40.000000</ele>
+        <time>2010-12-06T09:47:38Z</time>
+      </trkpt>
+      <trkpt lat="52.56877000" lon="9.489530000">
+        <ele>43.000000</ele>
+        <time>2010-12-06T09:48:22Z</time>
+      </trkpt>
+      <trkpt lat="52.56893000" lon="9.489860000">
+        <ele>43.000000</ele>
+        <time>2010-12-06T09:48:32Z</time>
+      </trkpt>
+      <trkpt lat="52.56965000" lon="9.492130000">
+        <ele>42.000000</ele>
+        <time>2010-12-06T09:49:35Z</time>
+      </trkpt>
+      <trkpt lat="52.56979000" lon="9.492760000">
+        <ele>42.000000</ele>
+        <time>2010-12-06T09:49:51Z</time>
+      </trkpt>
+      <trkpt lat="52.56990000" lon="9.493600000">
+        <ele>40.000000</ele>
+        <time>2010-12-06T09:50:12Z</time>
+      </trkpt>
+      <trkpt lat="52.57060000" lon="9.497870000">
+        <ele>39.000000</ele>
+        <time>2010-12-06T09:52:00Z</time>
+      </trkpt>
+      <trkpt lat="52.57085000" lon="9.498260000">
+        <ele>40.000000</ele>
+        <time>2010-12-06T09:52:13Z</time>
+      </trkpt>
+      <trkpt lat="52.57099000" lon="9.498790000">
+        <ele>40.000000</ele>
+        <time>2010-12-06T09:52:27Z</time>
+      </trkpt>
+      <trkpt lat="52.57146000" lon="9.500240000">
+        <ele>38.000000</ele>
+        <time>2010-12-06T09:53:07Z</time>
+      </trkpt>
+      <trkpt lat="52.58117000" lon="9.500310000">
+        <ele>45.000000</ele>
+        <time>2010-12-06T09:59:36Z</time>
+      </trkpt>
+      <trkpt lat="52.58627000" lon="9.500020000">
+        <ele>52.000000</ele>
+        <time>2010-12-06T10:03:00Z</time>
+      </trkpt>
+      <trkpt lat="52.58911000" lon="9.501430000">
+        <ele>55.000000</ele>
+        <time>2010-12-06T10:04:59Z</time>
+      </trkpt>
+      <trkpt lat="52.58978000" lon="9.501710000">
+        <ele>57.000000</ele>
+        <time>2010-12-06T10:05:27Z</time>
+      </trkpt>
+      <trkpt lat="52.59070000" lon="9.501950000">
+        <ele>55.000000</ele>
+        <time>2010-12-06T10:06:04Z</time>
+      </trkpt>
+      <trkpt lat="52.59093000" lon="9.501870000">
+        <ele>55.000000</ele>
+        <time>2010-12-06T10:06:13Z</time>
+      </trkpt>
+      <trkpt lat="52.59106000" lon="9.501700000">
+        <ele>55.000000</ele>
+        <time>2010-12-06T10:06:20Z</time>
+      </trkpt>
+      <trkpt lat="52.59100000" lon="9.502030000">
+        <ele>55.000000</ele>
+        <time>2010-12-06T10:06:28Z</time>
+      </trkpt>
+      <trkpt lat="52.59166000" lon="9.502330000">
+        <ele>54.000000</ele>
+        <time>2010-12-06T10:06:56Z</time>
+      </trkpt>
+      <trkpt lat="52.59183000" lon="9.502520000">
+        <ele>54.000000</ele>
+        <time>2010-12-06T10:07:04Z</time>
+      </trkpt>
+      <trkpt lat="52.59220350" lon="9.501113890">
+        <ele>53.000000</ele>
+        <time>2010-12-06T10:07:41Z</time>
+      </trkpt>
+      <trkpt lat="52.59337670" lon="9.503817550">
+        <ele>52.000000</ele>
+        <time>2010-12-06T10:09:02Z</time>
+      </trkpt>
+      <trkpt lat="52.59666140" lon="9.504332540">
+        <ele>48.000000</ele>
+        <time>2010-12-06T10:11:14Z</time>
+      </trkpt>
+      <trkpt lat="52.59945050" lon="9.503989210">
+        <ele>54.000000</ele>
+        <time>2010-12-06T10:13:06Z</time>
+      </trkpt>
+      <trkpt lat="52.60156180" lon="9.504547110">
+        <ele>54.000000</ele>
+        <time>2010-12-06T10:14:32Z</time>
+      </trkpt>
+      <trkpt lat="52.60158790" lon="9.507551190">
+        <ele>49.000000</ele>
+        <time>2010-12-06T10:15:45Z</time>
+      </trkpt>
+      <trkpt lat="52.61164770" lon="9.509310720">
+        <ele>39.000000</ele>
+        <time>2010-12-06T10:22:30Z</time>
+      </trkpt>
+      <trkpt lat="52.61202560" lon="9.510748380">
+        <ele>41.000000</ele>
+        <time>2010-12-06T10:23:08Z</time>
+      </trkpt>
+      <trkpt lat="52.61300280" lon="9.509975910">
+        <ele>39.000000</ele>
+        <time>2010-12-06T10:23:51Z</time>
+      </trkpt>
+      <trkpt lat="52.61417540" lon="9.509975910">
+        <ele>38.000000</ele>
+        <time>2010-12-06T10:24:38Z</time>
+      </trkpt>
+      <trkpt lat="52.61487890" lon="9.510040280">
+        <ele>36.000000</ele>
+        <time>2010-12-06T10:25:06Z</time>
+      </trkpt>
+      <trkpt lat="52.61623380" lon="9.509010310">
+        <ele>35.000000</ele>
+        <time>2010-12-06T10:26:06Z</time>
+      </trkpt>
+      <trkpt lat="52.61615570" lon="9.505362510">
+        <ele>38.000000</ele>
+        <time>2010-12-06T10:27:35Z</time>
+      </trkpt>
+      <trkpt lat="52.62316420" lon="9.492702480">
+        <ele>44.000000</ele>
+        <time>2010-12-06T10:34:31Z</time>
+      </trkpt>
+      <trkpt lat="52.62410210" lon="9.491243360">
+        <ele>40.000000</ele>
+        <time>2010-12-06T10:35:23Z</time>
+      </trkpt>
+      <trkpt lat="52.62503990" lon="9.490170470">
+        <ele>33.000000</ele>
+        <time>2010-12-06T10:36:09Z</time>
+      </trkpt>
+      <trkpt lat="52.62584750" lon="9.489011760">
+        <ele>35.000000</ele>
+        <time>2010-12-06T10:36:51Z</time>
+      </trkpt>
+      <trkpt lat="52.62621220" lon="9.488110540">
+        <ele>36.000000</ele>
+        <time>2010-12-06T10:37:18Z</time>
+      </trkpt>
+      <trkpt lat="52.62622000" lon="9.488120000">
+        <ele>36.000000</ele>
+        <time>2010-12-06T10:37:18Z</time>
+      </trkpt>
+      <trkpt lat="52.62640000" lon="9.487470000">
+        <ele>33.000000</ele>
+        <time>2010-12-06T10:37:36Z</time>
+      </trkpt>
+      <trkpt lat="52.62643000" lon="9.487120000">
+        <ele>33.000000</ele>
+        <time>2010-12-06T10:37:44Z</time>
+      </trkpt>
+      <trkpt lat="52.62655740" lon="9.486597770">
+        <ele>34.000000</ele>
+        <time>2010-12-06T10:37:58Z</time>
+      </trkpt>
+      <trkpt lat="52.62658340" lon="9.485964770">
+        <ele>34.000000</ele>
+        <time>2010-12-06T10:38:13Z</time>
+      </trkpt>
+      <trkpt lat="52.62655740" lon="9.483872650">
+        <ele>35.000000</ele>
+        <time>2010-12-06T10:39:04Z</time>
+      </trkpt>
+      <trkpt lat="52.62698720" lon="9.481469390">
+        <ele>35.000000</ele>
+        <time>2010-12-06T10:40:05Z</time>
+      </trkpt>
+      <trkpt lat="52.62682440" lon="9.481115340">
+        <ele>34.000000</ele>
+        <time>2010-12-06T10:40:16Z</time>
+      </trkpt>
+      <trkpt lat="52.62574000" lon="9.480160000">
+        <ele>35.000000</ele>
+        <time>2010-12-06T10:41:05Z</time>
+      </trkpt>
+      <trkpt lat="52.62545000" lon="9.478310000">
+        <ele>36.000000</ele>
+        <time>2010-12-06T10:41:51Z</time>
+      </trkpt>
+      <trkpt lat="52.62535000" lon="9.477860000">
+        <ele>38.000000</ele>
+        <time>2010-12-06T10:42:03Z</time>
+      </trkpt>
+      <trkpt lat="52.62516000" lon="9.477400000">
+        <ele>38.000000</ele>
+        <time>2010-12-06T10:42:17Z</time>
+      </trkpt>
+      <trkpt lat="52.62494000" lon="9.477010000">
+        <ele>38.000000</ele>
+        <time>2010-12-06T10:42:30Z</time>
+      </trkpt>
+      <trkpt lat="52.62452000" lon="9.477270000">
+        <ele>38.000000</ele>
+        <time>2010-12-06T10:42:47Z</time>
+      </trkpt>
+      <trkpt lat="52.62439000" lon="9.477580000">
+        <ele>38.000000</ele>
+        <time>2010-12-06T10:42:57Z</time>
+      </trkpt>
+      <trkpt lat="52.62429000" lon="9.477720000">
+        <ele>38.000000</ele>
+        <time>2010-12-06T10:43:02Z</time>
+      </trkpt>
+      <trkpt lat="52.62416000" lon="9.477770000">
+        <ele>38.000000</ele>
+        <time>2010-12-06T10:43:07Z</time>
+      </trkpt>
+      <trkpt lat="52.62394000" lon="9.477730000">
+        <ele>38.000000</ele>
+        <time>2010-12-06T10:43:16Z</time>
+      </trkpt>
+      <trkpt lat="52.62360000" lon="9.477360000">
+        <ele>36.000000</ele>
+        <time>2010-12-06T10:43:32Z</time>
+      </trkpt>
+      <trkpt lat="52.62171000" lon="9.475040000">
+        <ele>33.000000</ele>
+        <time>2010-12-06T10:45:07Z</time>
+      </trkpt>
+      <trkpt lat="52.62093000" lon="9.474030000">
+        <ele>32.000000</ele>
+        <time>2010-12-06T10:45:46Z</time>
+      </trkpt>
+      <trkpt lat="52.62063000" lon="9.473530000">
+        <ele>32.000000</ele>
+        <time>2010-12-06T10:46:04Z</time>
+      </trkpt>
+      <trkpt lat="52.62024000" lon="9.472600000">
+        <ele>33.000000</ele>
+        <time>2010-12-06T10:46:31Z</time>
+      </trkpt>
+      <trkpt lat="52.61895000" lon="9.469120000">
+        <ele>38.000000</ele>
+        <time>2010-12-06T10:48:10Z</time>
+      </trkpt>
+      <trkpt lat="52.61880000" lon="9.468790000">
+        <ele>38.000000</ele>
+        <time>2010-12-06T10:48:20Z</time>
+      </trkpt>
+      <trkpt lat="52.61847000" lon="9.468570000">
+        <ele>44.000000</ele>
+        <time>2010-12-06T10:48:34Z</time>
+      </trkpt>
+      <trkpt lat="52.61690000" lon="9.468050000">
+        <ele>36.000000</ele>
+        <time>2010-12-06T10:49:38Z</time>
+      </trkpt>
+      <trkpt lat="52.61626000" lon="9.467910000">
+        <ele>36.000000</ele>
+        <time>2010-12-06T10:50:04Z</time>
+      </trkpt>
+      <trkpt lat="52.61613000" lon="9.467810000">
+        <ele>38.000000</ele>
+        <time>2010-12-06T10:50:10Z</time>
+      </trkpt>
+      <trkpt lat="52.61604000" lon="9.467630000">
+        <ele>38.000000</ele>
+        <time>2010-12-06T10:50:16Z</time>
+      </trkpt>
+      <trkpt lat="52.61530000" lon="9.464900000">
+        <ele>36.000000</ele>
+        <time>2010-12-06T10:51:28Z</time>
+      </trkpt>
+      <trkpt lat="52.61433000" lon="9.461080000">
+        <ele>37.000000</ele>
+        <time>2010-12-06T10:53:09Z</time>
+      </trkpt>
+      <trkpt lat="52.61429000" lon="9.460650000">
+        <ele>37.000000</ele>
+        <time>2010-12-06T10:53:20Z</time>
+      </trkpt>
+      <trkpt lat="52.61431000" lon="9.460470000">
+        <ele>37.000000</ele>
+        <time>2010-12-06T10:53:24Z</time>
+      </trkpt>
+      <trkpt lat="52.61594000" lon="9.451000000">
+        <ele>41.000000</ele>
+        <time>2010-12-06T10:57:23Z</time>
+      </trkpt>
+      <trkpt lat="52.61695000" lon="9.444790000">
+        <ele>43.000000</ele>
+        <time>2010-12-06T11:00:00Z</time>
+      </trkpt>
+      <trkpt lat="52.61691000" lon="9.445010000">
+        <ele>43.000000</ele>
+        <time>2010-12-06T11:00:05Z</time>
+      </trkpt>
+      <trkpt lat="52.61468000" lon="9.444960000">
+        <ele>39.000000</ele>
+        <time>2010-12-06T11:01:34Z</time>
+      </trkpt>
+      <trkpt lat="52.61216000" lon="9.444820000">
+        <ele>39.000000</ele>
+        <time>2010-12-06T11:03:15Z</time>
+      </trkpt>
+      <trkpt lat="52.61155650" lon="9.452254770">
+        <ele>41.000000</ele>
+        <time>2010-12-06T11:06:18Z</time>
+      </trkpt>
+      <trkpt lat="52.60934150" lon="9.452834120">
+        <ele>36.000000</ele>
+        <time>2010-12-06T11:07:47Z</time>
+      </trkpt>
+      <trkpt lat="52.60869000" lon="9.455194470">
+        <ele>36.000000</ele>
+        <time>2010-12-06T11:08:50Z</time>
+      </trkpt>
+      <trkpt lat="52.60660510" lon="9.455816740">
+        <ele>38.000000</ele>
+        <time>2010-12-06T11:10:15Z</time>
+      </trkpt>
+      <trkpt lat="52.60599260" lon="9.455709450">
+        <ele>34.000000</ele>
+        <time>2010-12-06T11:10:40Z</time>
+      </trkpt>
+      <trkpt lat="52.60440280" lon="9.457039830">
+        <ele>38.000000</ele>
+        <time>2010-12-06T11:11:51Z</time>
+      </trkpt>
+      <trkpt lat="52.59887710" lon="9.449572560">
+        <ele>38.000000</ele>
+        <time>2010-12-06T11:16:37Z</time>
+      </trkpt>
+      <trkpt lat="52.59890000" lon="9.449570000">
+        <ele>38.000000</ele>
+        <time>2010-12-06T11:16:38Z</time>
+      </trkpt>
+      <trkpt lat="52.59894000" lon="9.448060000">
+        <ele>39.000000</ele>
+        <time>2010-12-06T11:17:15Z</time>
+      </trkpt>
+      <trkpt lat="52.59900000" lon="9.447830000">
+        <ele>40.000000</ele>
+        <time>2010-12-06T11:17:21Z</time>
+      </trkpt>
+      <trkpt lat="52.59932000" lon="9.447090000">
+        <ele>40.000000</ele>
+        <time>2010-12-06T11:17:43Z</time>
+      </trkpt>
+      <trkpt lat="52.59992000" lon="9.446180000">
+        <ele>41.000000</ele>
+        <time>2010-12-06T11:18:16Z</time>
+      </trkpt>
+      <trkpt lat="52.59998000" lon="9.445880000">
+        <ele>41.000000</ele>
+        <time>2010-12-06T11:18:24Z</time>
+      </trkpt>
+      <trkpt lat="52.60012000" lon="9.444480000">
+        <ele>42.000000</ele>
+        <time>2010-12-06T11:18:58Z</time>
+      </trkpt>
+      <trkpt lat="52.59940000" lon="9.443640000">
+        <ele>40.000000</ele>
+        <time>2010-12-06T11:19:33Z</time>
+      </trkpt>
+      <trkpt lat="52.59914000" lon="9.443470000">
+        <ele>40.000000</ele>
+        <time>2010-12-06T11:19:45Z</time>
+      </trkpt>
+      <trkpt lat="52.59889000" lon="9.443440000">
+        <ele>40.000000</ele>
+        <time>2010-12-06T11:19:55Z</time>
+      </trkpt>
+      <trkpt lat="52.59833000" lon="9.442280000">
+        <ele>40.000000</ele>
+        <time>2010-12-06T11:20:31Z</time>
+      </trkpt>
+      <trkpt lat="52.59713000" lon="9.440040000">
+        <ele>39.000000</ele>
+        <time>2010-12-06T11:21:43Z</time>
+      </trkpt>
+      <trkpt lat="52.59458000" lon="9.435420000">
+        <ele>44.000000</ele>
+        <time>2010-12-06T11:24:15Z</time>
+      </trkpt>
+      <trkpt lat="52.59455000" lon="9.435220000">
+        <ele>44.000000</ele>
+        <time>2010-12-06T11:24:20Z</time>
+      </trkpt>
+      <trkpt lat="52.59475000" lon="9.433830000">
+        <ele>41.000000</ele>
+        <time>2010-12-06T11:24:55Z</time>
+      </trkpt>
+      <trkpt lat="52.59672000" lon="9.417590000">
+        <ele>51.000000</ele>
+        <time>2010-12-06T11:31:38Z</time>
+      </trkpt>
+      <trkpt lat="52.59805000" lon="9.400240000">
+        <ele>48.000000</ele>
+        <time>2010-12-06T11:38:43Z</time>
+      </trkpt>
+      <trkpt lat="52.59827000" lon="9.396850000">
+        <ele>53.000000</ele>
+        <time>2010-12-06T11:40:06Z</time>
+      </trkpt>
+      <trkpt lat="52.59829000" lon="9.396420000">
+        <ele>53.000000</ele>
+        <time>2010-12-06T11:40:16Z</time>
+      </trkpt>
+      <trkpt lat="52.59825000" lon="9.396420000">
+        <ele>53.000000</ele>
+        <time>2010-12-06T11:40:18Z</time>
+      </trkpt>
+      <trkpt lat="52.59864250" lon="9.396046400">
+        <ele>52.000000</ele>
+        <time>2010-12-06T11:40:36Z</time>
+      </trkpt>
+      <trkpt lat="52.59835000" lon="9.393820000">
+        <ele>50.000000</ele>
+        <time>2010-12-06T11:41:31Z</time>
+      </trkpt>
+      <trkpt lat="52.59767800" lon="9.391894340">
+        <ele>49.000000</ele>
+        <time>2010-12-06T11:42:25Z</time>
+      </trkpt>
+      <trkpt lat="52.59744000" lon="9.390650000">
+        <ele>48.000000</ele>
+        <time>2010-12-06T11:42:57Z</time>
+      </trkpt>
+      <trkpt lat="52.59727000" lon="9.389970000">
+        <ele>48.000000</ele>
+        <time>2010-12-06T11:43:15Z</time>
+      </trkpt>
+      <trkpt lat="52.59705000" lon="9.388450000">
+        <ele>47.000000</ele>
+        <time>2010-12-06T11:43:53Z</time>
+      </trkpt>
+      <trkpt lat="52.59723000" lon="9.385490000">
+        <ele>47.000000</ele>
+        <time>2010-12-06T11:45:05Z</time>
+      </trkpt>
+      <trkpt lat="52.59586000" lon="9.384650000">
+        <ele>46.000000</ele>
+        <time>2010-12-06T11:46:04Z</time>
+      </trkpt>
+      <trkpt lat="52.59564000" lon="9.384430000">
+        <ele>47.000000</ele>
+        <time>2010-12-06T11:46:14Z</time>
+      </trkpt>
+      <trkpt lat="52.59525370" lon="9.387173650">
+        <ele>47.000000</ele>
+        <time>2010-12-06T11:47:23Z</time>
+      </trkpt>
+      <trkpt lat="52.59598360" lon="9.390006060">
+        <ele>49.000000</ele>
+        <time>2010-12-06T11:48:37Z</time>
+      </trkpt>
+      <trkpt lat="52.59598000" lon="9.389930000">
+        <ele>49.000000</ele>
+        <time>2010-12-06T11:48:39Z</time>
+      </trkpt>
+      <trkpt lat="52.59661000" lon="9.389950000">
+        <ele>49.000000</ele>
+        <time>2010-12-06T11:49:04Z</time>
+      </trkpt>
+      <trkpt lat="52.59602270" lon="9.393160340">
+        <ele>48.000000</ele>
+        <time>2010-12-06T11:50:26Z</time>
+      </trkpt>
+      <trkpt lat="52.59543000" lon="9.396260000">
+        <ele>49.000000</ele>
+        <time>2010-12-06T11:51:45Z</time>
+      </trkpt>
+      <trkpt lat="52.59533000" lon="9.396550000">
+        <ele>51.000000</ele>
+        <time>2010-12-06T11:51:53Z</time>
+      </trkpt>
+      <trkpt lat="52.59524000" lon="9.396650000">
+        <ele>51.000000</ele>
+        <time>2010-12-06T11:51:57Z</time>
+      </trkpt>
+      <trkpt lat="52.59485000" lon="9.396780000">
+        <ele>51.000000</ele>
+        <time>2010-12-06T11:52:13Z</time>
+      </trkpt>
+      <trkpt lat="52.59405000" lon="9.397230000">
+        <ele>50.000000</ele>
+        <time>2010-12-06T11:52:47Z</time>
+      </trkpt>
+      <trkpt lat="52.59170000" lon="9.398170000">
+        <ele>54.000000</ele>
+        <time>2010-12-06T11:54:24Z</time>
+      </trkpt>
+      <trkpt lat="52.59101730" lon="9.398192160">
+        <ele>58.000000</ele>
+        <time>2010-12-06T11:54:51Z</time>
+      </trkpt>
+      <trkpt lat="52.59033300" lon="9.398143880">
+        <ele>56.000000</ele>
+        <time>2010-12-06T11:55:19Z</time>
+      </trkpt>
+      <trkpt lat="52.59012760" lon="9.389893410">
+        <ele>57.000000</ele>
+        <time>2010-12-06T11:58:40Z</time>
+      </trkpt>
+      <trkpt lat="52.59005920" lon="9.389662740">
+        <ele>57.000000</ele>
+        <time>2010-12-06T11:58:46Z</time>
+      </trkpt>
+      <trkpt lat="52.58932920" lon="9.389625190">
+        <ele>58.000000</ele>
+        <time>2010-12-06T11:59:15Z</time>
+      </trkpt>
+      <trkpt lat="52.58884690" lon="9.389684200">
+        <ele>58.000000</ele>
+        <time>2010-12-06T11:59:34Z</time>
+      </trkpt>
+      <trkpt lat="52.58752000" lon="9.389790000">
+        <ele>62.000000</ele>
+        <time>2010-12-06T12:00:28Z</time>
+      </trkpt>
+      <trkpt lat="52.58743240" lon="9.391196960">
+        <ele>62.000000</ele>
+        <time>2010-12-06T12:01:02Z</time>
+      </trkpt>
+      <trkpt lat="52.58737000" lon="9.391560000">
+        <ele>61.000000</ele>
+        <time>2010-12-06T12:01:11Z</time>
+      </trkpt>
+      <trkpt lat="52.58601790" lon="9.392269840">
+        <ele>60.000000</ele>
+        <time>2010-12-06T12:02:08Z</time>
+      </trkpt>
+      <trkpt lat="52.58599180" lon="9.392876020">
+        <ele>60.000000</ele>
+        <time>2010-12-06T12:02:23Z</time>
+      </trkpt>
+      <trkpt lat="52.58589410" lon="9.393031590">
+        <ele>59.000000</ele>
+        <time>2010-12-06T12:02:28Z</time>
+      </trkpt>
+      <trkpt lat="52.58384720" lon="9.397044180">
+        <ele>60.000000</ele>
+        <time>2010-12-06T12:04:36Z</time>
+      </trkpt>
+      <trkpt lat="52.58359950" lon="9.405069350">
+        <ele>56.000000</ele>
+        <time>2010-12-06T12:07:51Z</time>
+      </trkpt>
+      <trkpt lat="52.58362000" lon="9.405080000">
+        <ele>56.000000</ele>
+        <time>2010-12-06T12:07:52Z</time>
+      </trkpt>
+      <trkpt lat="52.58292150" lon="9.405584330">
+        <ele>54.000000</ele>
+        <time>2010-12-06T12:08:22Z</time>
+      </trkpt>
+      <trkpt lat="52.58293450" lon="9.405970570">
+        <ele>54.000000</ele>
+        <time>2010-12-06T12:08:32Z</time>
+      </trkpt>
+      <trkpt lat="52.58028780" lon="9.411463730">
+        <ele>51.000000</ele>
+        <time>2010-12-06T12:11:22Z</time>
+      </trkpt>
+      <trkpt lat="52.57936200" lon="9.413180350">
+        <ele>49.000000</ele>
+        <time>2010-12-06T12:12:18Z</time>
+      </trkpt>
+      <trkpt lat="52.57854050" lon="9.414510720">
+        <ele>50.000000</ele>
+        <time>2010-12-06T12:13:04Z</time>
+      </trkpt>
+      <trkpt lat="52.57668890" lon="9.417729370">
+        <ele>49.000000</ele>
+        <time>2010-12-06T12:14:52Z</time>
+      </trkpt>
+      <trkpt lat="52.57511000" lon="9.420330000">
+        <ele>51.000000</ele>
+        <time>2010-12-06T12:16:22Z</time>
+      </trkpt>
+      <trkpt lat="52.57501330" lon="9.420679800">
+        <ele>51.000000</ele>
+        <time>2010-12-06T12:16:31Z</time>
+      </trkpt>
+      <trkpt lat="52.57510460" lon="9.421194790">
+        <ele>51.000000</ele>
+        <time>2010-12-06T12:16:44Z</time>
+      </trkpt>
+      <trkpt lat="52.57582830" lon="9.424638740">
+        <ele>52.000000</ele>
+        <time>2010-12-06T12:18:13Z</time>
+      </trkpt>
+      <trkpt lat="52.57608910" lon="9.425175180">
+        <ele>52.000000</ele>
+        <time>2010-12-06T12:18:29Z</time>
+      </trkpt>
+      <trkpt lat="52.57625210" lon="9.426398270">
+        <ele>49.000000</ele>
+        <time>2010-12-06T12:19:00Z</time>
+      </trkpt>
+      <trkpt lat="52.57572400" lon="9.428157800">
+        <ele>52.000000</ele>
+        <time>2010-12-06T12:19:48Z</time>
+      </trkpt>
+      <trkpt lat="52.57546320" lon="9.427556990">
+        <ele>53.000000</ele>
+        <time>2010-12-06T12:20:06Z</time>
+      </trkpt>
+      <trkpt lat="52.57164220" lon="9.425733080">
+        <ele>64.000000</ele>
+        <time>2010-12-06T12:22:45Z</time>
+      </trkpt>
+      <trkpt lat="52.57186390" lon="9.422922130">
+        <ele>63.000000</ele>
+        <time>2010-12-06T12:23:54Z</time>
+      </trkpt>
+      <trkpt lat="52.57195520" lon="9.419510360">
+        <ele>51.000000</ele>
+        <time>2010-12-06T12:25:17Z</time>
+      </trkpt>
+      <trkpt lat="52.57157700" lon="9.415025710">
+        <ele>53.000000</ele>
+        <time>2010-12-06T12:27:07Z</time>
+      </trkpt>
+      <trkpt lat="52.56823830" lon="9.413909910">
+        <ele>61.000000</ele>
+        <time>2010-12-06T12:29:23Z</time>
+      </trkpt>
+      <trkpt lat="52.56799050" lon="9.413180350">
+        <ele>62.000000</ele>
+        <time>2010-12-06T12:29:44Z</time>
+      </trkpt>
+      <trkpt lat="52.56582000" lon="9.414440000">
+        <ele>62.000000</ele>
+        <time>2010-12-06T12:31:16Z</time>
+      </trkpt>
+      <trkpt lat="52.56539000" lon="9.414530000">
+        <ele>63.000000</ele>
+        <time>2010-12-06T12:31:33Z</time>
+      </trkpt>
+      <trkpt lat="52.56462000" lon="9.414890000">
+        <ele>64.000000</ele>
+        <time>2010-12-06T12:32:05Z</time>
+      </trkpt>
+      <trkpt lat="52.56433000" lon="9.414810000">
+        <ele>67.000000</ele>
+        <time>2010-12-06T12:32:17Z</time>
+      </trkpt>
+      <trkpt lat="52.56357000" lon="9.414470000">
+        <ele>67.000000</ele>
+        <time>2010-12-06T12:32:49Z</time>
+      </trkpt>
+      <trkpt lat="52.56275000" lon="9.414370000">
+        <ele>59.000000</ele>
+        <time>2010-12-06T12:33:21Z</time>
+      </trkpt>
+      <trkpt lat="52.56066010" lon="9.414188860">
+        <ele>55.000000</ele>
+        <time>2010-12-06T12:34:45Z</time>
+      </trkpt>
+      <trkpt lat="52.56052960" lon="9.409575460">
+        <ele>59.000000</ele>
+        <time>2010-12-06T12:36:38Z</time>
+      </trkpt>
+      <trkpt lat="52.55092770" lon="9.409360880">
+        <ele>49.000000</ele>
+        <time>2010-12-06T12:43:02Z</time>
+      </trkpt>
+      <trkpt lat="52.54624350" lon="9.409253590">
+        <ele>49.000000</ele>
+        <time>2010-12-06T12:46:10Z</time>
+      </trkpt>
+      <trkpt lat="52.54599550" lon="9.411141870">
+        <ele>49.000000</ele>
+        <time>2010-12-06T12:46:57Z</time>
+      </trkpt>
+      <trkpt lat="52.54632170" lon="9.412665360">
+        <ele>49.000000</ele>
+        <time>2010-12-06T12:47:36Z</time>
+      </trkpt>
+      <trkpt lat="52.54643920" lon="9.413459300">
+        <ele>48.000000</ele>
+        <time>2010-12-06T12:47:56Z</time>
+      </trkpt>
+      <trkpt lat="52.54600000" lon="9.416810000">
+        <ele>46.000000</ele>
+        <time>2010-12-06T12:49:19Z</time>
+      </trkpt>
+      <trkpt lat="52.54599000" lon="9.417460000">
+        <ele>46.000000</ele>
+        <time>2010-12-06T12:49:35Z</time>
+      </trkpt>
+      <trkpt lat="52.54611300" lon="9.419467440">
+        <ele>44.000000</ele>
+        <time>2010-12-06T12:50:24Z</time>
+      </trkpt>
+      <trkpt lat="52.54619130" lon="9.421591750">
+        <ele>43.000000</ele>
+        <time>2010-12-06T12:51:16Z</time>
+      </trkpt>
+      <trkpt lat="52.54619130" lon="9.422965040">
+        <ele>42.000000</ele>
+        <time>2010-12-06T12:51:49Z</time>
+      </trkpt>
+      <trkpt lat="52.54606080" lon="9.424037930">
+        <ele>43.000000</ele>
+        <time>2010-12-06T12:52:16Z</time>
+      </trkpt>
+      <trkpt lat="52.54577000" lon="9.425360000">
+        <ele>44.000000</ele>
+        <time>2010-12-06T12:52:50Z</time>
+      </trkpt>
+      <trkpt lat="52.54558000" lon="9.426660000">
+        <ele>44.000000</ele>
+        <time>2010-12-06T12:53:23Z</time>
+      </trkpt>
+      <trkpt lat="52.54558000" lon="9.427050000">
+        <ele>44.000000</ele>
+        <time>2010-12-06T12:53:32Z</time>
+      </trkpt>
+      <trkpt lat="52.54575000" lon="9.428170000">
+        <ele>44.000000</ele>
+        <time>2010-12-06T12:54:00Z</time>
+      </trkpt>
+      <trkpt lat="52.54347700" lon="9.431204790">
+        <ele>41.000000</ele>
+        <time>2010-12-06T12:55:58Z</time>
+      </trkpt>
+      <trkpt lat="52.54553880" lon="9.433264730">
+        <ele>44.000000</ele>
+        <time>2010-12-06T12:57:34Z</time>
+      </trkpt>
+      <trkpt lat="52.54593030" lon="9.434766760">
+        <ele>46.000000</ele>
+        <time>2010-12-06T12:58:14Z</time>
+      </trkpt>
+      <trkpt lat="52.54611300" lon="9.436311720">
+        <ele>46.000000</ele>
+        <time>2010-12-06T12:58:52Z</time>
+      </trkpt>
+      <trkpt lat="52.54676540" lon="9.441418640">
+        <ele>52.000000</ele>
+        <time>2010-12-06T13:00:59Z</time>
+      </trkpt>
+      <trkpt lat="52.54728730" lon="9.446310990">
+        <ele>51.000000</ele>
+        <time>2010-12-06T13:03:00Z</time>
+      </trkpt>
+      <trkpt lat="52.54796590" lon="9.447855940">
+        <ele>50.000000</ele>
+        <time>2010-12-06T13:03:47Z</time>
+      </trkpt>
+      <trkpt lat="52.54655660" lon="9.448328010">
+        <ele>48.000000</ele>
+        <time>2010-12-06T13:04:44Z</time>
+      </trkpt>
+      <trkpt lat="52.54499070" lon="9.449100490">
+        <ele>46.000000</ele>
+        <time>2010-12-06T13:05:50Z</time>
+      </trkpt>
+      <trkpt lat="52.54123240" lon="9.445924750">
+        <ele>46.000000</ele>
+        <time>2010-12-06T13:08:39Z</time>
+      </trkpt>
+      <trkpt lat="52.53808720" lon="9.461331360">
+        <ele>36.000000</ele>
+        <time>2010-12-06T13:15:14Z</time>
+      </trkpt>
+      <trkpt lat="52.53801000" lon="9.461590000">
+        <ele>36.000000</ele>
+        <time>2010-12-06T13:15:21Z</time>
+      </trkpt>
+      <trkpt lat="52.53725000" lon="9.462260000">
+        <ele>36.000000</ele>
+        <time>2010-12-06T13:15:56Z</time>
+      </trkpt>
+      <trkpt lat="52.53693000" lon="9.462480000">
+        <ele>37.000000</ele>
+        <time>2010-12-06T13:16:10Z</time>
+      </trkpt>
+      <trkpt lat="52.53689000" lon="9.462890000">
+        <ele>37.000000</ele>
+        <time>2010-12-06T13:16:20Z</time>
+      </trkpt>
+      <trkpt lat="52.53675000" lon="9.462860000">
+        <ele>37.000000</ele>
+        <time>2010-12-06T13:16:26Z</time>
+      </trkpt>
+      <trkpt lat="52.53550000" lon="9.463110000">
+        <ele>38.000000</ele>
+        <time>2010-12-06T13:17:16Z</time>
+      </trkpt>
+      <trkpt lat="52.53545000" lon="9.462620000">
+        <ele>38.000000</ele>
+        <time>2010-12-06T13:17:28Z</time>
+      </trkpt>
+      <trkpt lat="52.53521000" lon="9.462110000">
+        <ele>37.000000</ele>
+        <time>2010-12-06T13:17:44Z</time>
+      </trkpt>
+      <trkpt lat="52.53453000" lon="9.461040000">
+        <ele>35.000000</ele>
+        <time>2010-12-06T13:18:22Z</time>
+      </trkpt>
+      <trkpt lat="52.53430000" lon="9.460600000">
+        <ele>35.000000</ele>
+        <time>2010-12-06T13:18:36Z</time>
+      </trkpt>
+      <trkpt lat="52.53331000" lon="9.457780000">
+        <ele>36.000000</ele>
+        <time>2010-12-06T13:19:55Z</time>
+      </trkpt>
+      <trkpt lat="52.52603920" lon="9.455280300">
+        <ele>36.000000</ele>
+        <time>2010-12-06T13:24:52Z</time>
+      </trkpt>
+      <trkpt lat="52.52604000" lon="9.455310000">
+        <ele>36.000000</ele>
+        <time>2010-12-06T13:24:53Z</time>
+      </trkpt>
+      <trkpt lat="52.52586000" lon="9.455350000">
+        <ele>36.000000</ele>
+        <time>2010-12-06T13:25:00Z</time>
+      </trkpt>
+      <trkpt lat="52.51890000" lon="9.458960000">
+        <ele>37.000000</ele>
+        <time>2010-12-06T13:29:52Z</time>
+      </trkpt>
+      <trkpt lat="52.51041000" lon="9.461200000">
+        <ele>42.000000</ele>
+        <time>2010-12-06T13:35:37Z</time>
+      </trkpt>
+      <trkpt lat="52.51020000" lon="9.461310000">
+        <ele>41.000000</ele>
+        <time>2010-12-06T13:35:45Z</time>
+      </trkpt>
+      <trkpt lat="52.50997000" lon="9.461600000">
+        <ele>41.000000</ele>
+        <time>2010-12-06T13:35:57Z</time>
+      </trkpt>
+      <trkpt lat="52.50972000" lon="9.462020000">
+        <ele>41.000000</ele>
+        <time>2010-12-06T13:36:11Z</time>
+      </trkpt>
+      <trkpt lat="52.50942000" lon="9.462570000">
+        <ele>41.000000</ele>
+        <time>2010-12-06T13:36:29Z</time>
+      </trkpt>
+      <trkpt lat="52.50918000" lon="9.462410000">
+        <ele>41.000000</ele>
+        <time>2010-12-06T13:36:40Z</time>
+      </trkpt>
+      <trkpt lat="52.50899000" lon="9.462360000">
+        <ele>41.000000</ele>
+        <time>2010-12-06T13:36:47Z</time>
+      </trkpt>
+      <trkpt lat="52.50679000" lon="9.462160000">
+        <ele>41.000000</ele>
+        <time>2010-12-06T13:38:16Z</time>
+      </trkpt>
+      <trkpt lat="52.50676000" lon="9.462630000">
+        <ele>41.000000</ele>
+        <time>2010-12-06T13:38:27Z</time>
+      </trkpt>
+      <trkpt lat="52.50662000" lon="9.463150000">
+        <ele>39.000000</ele>
+        <time>2010-12-06T13:38:41Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
+

@@ -1,0 +1,114 @@
+<html>
+	<head>
+		<title>GPX Info</title>
+		<script language="Javascript" src="tools.js"></script>
+        <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.1/leaflet.css" />
+        <script src="http://cdn.leafletjs.com/leaflet-0.7.1/leaflet.js"></script>
+
+		<script language="Javascript">
+		<!--
+			var polyline;
+
+			function load()
+			{
+				// Extrahiere Wert aus Formular
+				var dateiname = document.Formular.Datei.value;
+				// XML-Datei einlesen
+				var gpxdata = loadXMLsyn(dateiname);
+				// Alle trkpt-Knoten in Array
+				var trkpts = gpxdata.getElementsByTagName("trkpt");
+
+				dist = calcDist(trkpts);
+				document.getElementById("Ergebnis").firstChild.data = "Distanz: "+dist+" km";
+
+				if(!polyline)
+				{
+					polyline = L.polyline(getLine(trkpts));
+					polyline.addTo(map);
+				}
+				else
+				{
+					polyline.setLatLngs(getLine(trkpts));
+					polyline.redraw();
+				}
+				map.fitBounds(polyline.getBounds());
+				polyline.bindPopup("Distanz: "+dist+" km");
+
+			}
+
+			function calcDist(trkpts)
+			{
+				var s=0;
+				// Koordinaten vom ersten trkpt
+				lat0 = Number(trkpts[0].getAttribute("lat"));
+				lon0 = Number(trkpts[0].getAttribute("lon"));
+
+				for (i=1;i<trkpts.length;i++)
+				{
+					lat = Number(trkpts[i].getAttribute("lat"));
+					lon = Number(trkpts[i].getAttribute("lon"));
+
+					s += distance(lon0,lat0,lon,lat);
+
+					lat0=lat;
+					lon0=lon;
+
+				}
+
+				return Math.round(s*1000)/1000;
+			}
+
+			function getLine(trkpts)
+			{
+				p = new Array();
+
+				for (i=0;i<trkpts.length;i++)
+				{
+					lat = Number(trkpts[i].getAttribute("lat"));
+					lon = Number(trkpts[i].getAttribute("lon"));
+					p.push([lat,lon]);
+				}
+				return p;
+			}
+
+			function onMapChange(e)
+			{
+				box = e.target.getBounds();
+				document.getElementById("Ergebnis").firstChild.data = "BBOX: "+box.toBBoxString();
+
+			}
+
+
+
+		-->
+		</script>
+		<style>#map { height: 80%; width: 100%}</style>
+	</head>
+	<body>
+		<h1>GPX Info</h1>
+
+		<noscript>
+			Dein Browser unterstützt kein Javascript!
+		</noscript>
+
+        <div id="map"></div>
+		<script language="Javascript">
+			var map = L.map('map').setView([52.4, 9.7], 13);
+
+			// add an OpenStreetMap tile layer
+			L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+		    attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+			}).addTo(map);
+			map.on('moveend', onMapChange);
+		</script>
+
+		<!-- Formular mit Dateiauswahlfeld und Submit-Button-->
+		<form action="javascript:load()" name="Formular">
+			<input type="text" name="Datei"></input>
+			<input type="submit" value="GPX-Datei laden"/>
+			<!-- Platzhalter für das Ergebnis -->
+			&nbsp; <span id="Ergebnis">&nbsp;</span>
+		</form>
+
+	</body>
+</html>
